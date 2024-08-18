@@ -1,10 +1,8 @@
 # Forage_Accenture_Social_Buzz_Analysis
 Accenture Social Buzz Analysis
+![Screenshot 2024-08-18 223905](https://github.com/user-attachments/assets/d0800514-507b-4e07-b9b4-0d9bc4d87e96)
 
-![Screenshot 2024-08-01 123651](https://github.com/user-attachments/assets/35a883de-b85a-46b2-ae36-04833e2d9330)
-
-## HDB Resale Analysis in PowerBI  
-# [DashBoard](https://app.powerbi.com/groups/me/reports/bd97f543-142a-4314-9cc3-99aa63b8eaf5/d1284b876aaa72599b39?experience=power-bi&pbi_source=storytelling_addin)
+# [DashBoard](https://app.powerbi.com/groups/me/reports/10a35f16-58ac-472e-b7ab-49ecf892b063/e0175f649fec1d19e196?experience=power-bi)
 ### The Project Goal
 ____
 This project explores the trends and factors influencing HDB (Housing Development Board) resale prices in Singapore. By analyzing historical data, we'll uncover insights to help homebuyers and investors make informed decisions in the HDB resale market.
